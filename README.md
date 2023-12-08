@@ -1,4 +1,6 @@
 # Diplom
+Тема диплома - приложение для администратора фитнес-клуба для учета наличия спортивных напитков
+
 https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/edit
 
 ![image](https://github.com/sxdmatheww/Diplom/assets/97594112/d363d83d-171a-4571-a469-f0bff16e49ef)
