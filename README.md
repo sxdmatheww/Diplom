@@ -16,3 +16,6 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 3. Схематическая карта игры
 ![image](https://github.com/sxdmatheww/Diplom/assets/97594112/e2dc551b-fe40-4873-9d23-a89d1279e1dc)
 
+ ![image](https://github.com/sxdmatheww/Diplom/assets/97594112/5e3c16af-8959-4fb8-ab26-d758b9828f62)
+
+
